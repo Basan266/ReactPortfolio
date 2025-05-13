@@ -1,0 +1,22 @@
+/* timelineOverride.css */
+.vertical-timeline--two-columns .vertical-timeline-element-content .vertical-timeline-element-date{
+    left: 90%;
+}
+  
+
+.vertical-timeline--two-columns.vertical-timeline--animate .vertical-timeline-element.vertical-timeline-element--right .vertical-timeline-element-content.bounce-in, .vertical-timeline--two-columns.vertical-timeline--animate .vertical-timeline-element:nth-child(even):not(.vertical-timeline-element--left) .vertical-timeline-element-content.bounce-in{
+    background: unset;
+}
+
+
+.vertical-timeline--animate .vertical-timeline-element-content.bounce-in {
+    background: unset;
+}
+
+.canvas{
+    display: block;
+    width: 587px;
+    height: 635px;
+  }
+
+
