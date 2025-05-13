@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40e4ef37.css",
+    "main.js": "/static/js/main.db2fed55.js",
+    "static/media/gamingpc.png": "/static/media/gamingpc.2a7f2905ba69212aeb57.png",
+    "static/media/math.jpg": "/static/media/math.e2142594ab1752f39ba2.jpg",
+    "static/media/nasty.png": "/static/media/nasty.e11001ba320d98bd357e.png",
+    "static/media/calculator.png": "/static/media/calculator.e6e138a274a4905a091d.png",
+    "static/media/juan.png": "/static/media/juan.a23b7461c6c75060d544.png",
+    "index.html": "/index.html",
+    "main.40e4ef37.css.map": "/static/css/main.40e4ef37.css.map",
+    "main.db2fed55.js.map": "/static/js/main.db2fed55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40e4ef37.css",
+    "static/js/main.db2fed55.js"
+  ]
+}
